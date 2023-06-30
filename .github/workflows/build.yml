@@ -27,7 +27,7 @@ jobs:
       - name: Checkout zsbl
         uses: actions/checkout@v3
         with:
-          repository: sophgo/zsbl
+          repository: felixonmars/zsbl
           path: zsbl
 
 
